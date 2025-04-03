@@ -1,0 +1,4 @@
+N = 35
+Euler's Totient Function ϕ(N) = 24
+Count of relatively prime numbers to N = 24
+Verification successful: ϕ(N) matches the count of relatively prime numbers.

@@ -1,0 +1,5 @@
+Primitive root G: 3
+Private Key: 1
+Public Key: 3
+Encrypted Message: 3 
+Decrypted Message: 
